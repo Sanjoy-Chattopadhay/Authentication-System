@@ -1,10 +1,10 @@
-# Authentication-System - What is it?
-
-Authentication is the process of determining whether someone or something is, in fact, who or what it says it is. Authentication technology provides access control for systems by checking to see if a user's credentials match the credentials in a database of authorized users or in a data authentication server.
 
 # My Authentication System
 
 This is a Web Authentication System which has Register and Login Page. Only If the user has already registered into our system, then only he will be able to login. I have used Node Js, express and MongoDB Atlas (Database) to build this project.
+# Authentication-System - What is it?
+
+Authentication is the process of determining whether someone or something is, in fact, who or what it says it is. Authentication technology provides access control for systems by checking to see if a user's credentials match the credentials in a database of authorized users or in a data authentication server.
 
 # First Page 
 ### User will have two choices- Register and Login. 
